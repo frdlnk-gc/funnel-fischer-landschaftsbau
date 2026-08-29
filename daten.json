@@ -1,0 +1,166 @@
+{
+  "firma": "Fischer Landschaftsbau GmbH",
+  "stelle": "Facharbeiter Galabau (m/w/d)",
+  "ort": "Bonndorf",
+  "plz": "79848",
+  "region_badge": "Bonndorf & Umgebung",
+  "farbe_primary": "#B0CC22",
+  "farbe_secondary": "#2B2B29",
+  "benefit_top": "Kurzer Freitag · keine Montage mit Übernachtung",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Kurzer Freitag",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Flexible Arbeitszeiten",
+    "Betriebliche Altersvorsorge",
+    "Vermögenswirksame Leistungen",
+    "Jobrad-Leasing",
+    "Firmenhandy",
+    "Kostenübernahme Anhängerführerschein",
+    "Kostenübernahme für berufliche Zertifizierungen",
+    "Interne Karrierechancen",
+    "Ermäßigte Preise für Pflanzen und Gartenprodukte",
+    "Flache Hierarchien",
+    "Strukturierte Abläufe",
+    "Freundliches Arbeitsklima",
+    "Betriebsausflüge",
+    "Mitarbeiter-Events",
+    "Regelmäßige Firmenfeiern"
+  ],
+  "aufgaben": [
+    "Baggern, graben, pflastern, pflanzen – alles rund um den GaLaBau",
+    "Übertragene Aufgaben selbstständig erledigen",
+    "Projekte vom Vorgarten über Spielplätze bis zu ganzen Stadtvierteln",
+    "Baustellendokumentation"
+  ],
+  "anforderung": "Erfahren im GaLaBau, Führerscheinbesitzer, Teamplayer – und Spaß am Erschaffen von tollen Anlagen.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Vorarbeiter / Meister",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Straßen- & Tiefbau",
+      "icon": "🚧",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Straßenbauer o. vergleichbar",
+          "icon": "🎓"
+        },
+        {
+          "label": "Vorarbeiter / Polier",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Baumaschinen / Bagger",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Baumaschinenführer mit Nachweis",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren im Baggerfahren",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erste Erfahrung, will mehr",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Abgeschlossene Ausbildung",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "27",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2011",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "16 t",
+        "label": "Bagger im Fuhrpark"
+      }
+    ],
+    "text": "Fischer gestaltet vor allem große Außenanlagen für Kommunen, Städte und Gemeinden – dazu kleine Gärten, die Pflege der eigenen Anlagen und Wasserbau. Zum Fuhrpark gehören ein Schreitbagger, ein eigener LKW, mehrere Radlader und Bagger bis 16 Tonnen."
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/foto-01-schreitbagger.jpg",
+    "img/foto-02-team-planung.jpg",
+    "img/foto-03-pflasterarbeiten.jpg",
+    "img/foto-04-spielplatz.jpg",
+    "img/foto-05-parkanlage.jpg",
+    "img/foto-06-siebanlage.jpg",
+    "img/foto-07-betriebshof.jpg"
+  ],
+  "video": {
+    "src": "img/video.mp4",
+    "poster": "img/poster.jpg"
+  },
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Bonndorf"
+  },
+  "kunde_tab": "07 Fischer Landschaftsbau GmbH",
+  "quelle": "https://fischer-landschaftsbau.green-careers.de",
+  "logo": "logo.png"
+}
