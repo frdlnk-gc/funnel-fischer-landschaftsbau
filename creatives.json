@@ -1,0 +1,28 @@
+[
+  {
+    "name": "creative-1-benefit-checkliste",
+    "bilder": [
+      "logo.png",
+      "img/foto-02-team-planung.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'FISCHER Landschaftsbau GmbH' (kräftig hellgrüner Schriftzug 'FISCHER', darunter dunkelgraue Unterzeile), (2) ein Foto von vier Mitarbeitern in dunkelgrün-brauner Firmenkleidung, die gemeinsam einen Bauplan lesen, daneben ein Vermessungsgerät. Nutze das Foto unveraendert als obere Bildhaelfte (ohne Koepfe anzuschneiden), darunter eine ruhige dunkle Flaeche (#2B2B29) mit dezentem Verlauf. Layout unten von oben nach unten: Headline gross, fett, weiss: 'FACHARBEITER GaLaBau' mit kleinem Zusatz '(m/w/d)'. Standort-Zeile mit kleinem roten Pin-Symbol: 'Bonndorf · Waldshut-Tiengen · Titisee-Neustadt & Umgebung'. Vier Benefit-Pills (weisse abgerundete Balken mit hellgruenem Haekchen, schwarze Schrift): 'Kurzer Freitag' / 'Keine Montage mit Uebernachtung' / 'Jobrad & Firmenhandy' / 'Betriebliche Altersvorsorge'. Ganz unten ein Balken in Hellgruen (#B0CC22) mit DUNKLER, fast schwarzer Schrift: 'Jetzt unverbindliches Job-Angebot erhalten'. Das beigefuegte Logo original und unveraendert oben links auf weisser Mini-Kachel. Sauberes, modernes Recruiting-Design, gut lesbar auf dem Handy. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-2-projekt-collage",
+    "bilder": [
+      "logo.png",
+      "img/foto-01-schreitbagger.jpg",
+      "img/foto-03-pflasterarbeiten.jpg",
+      "img/foto-04-spielplatz.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als saubere Foto-Collage. Beigefügt: (1) das Firmenlogo 'FISCHER Landschaftsbau GmbH' (hellgruener Schriftzug), (2) ein Foto eines blauen Schreitbaggers in einem Gartenprojekt, (3) ein Foto von Pflasterarbeiten auf einer Baustelle, (4) ein Foto eines fertigen Spielplatzes mit Holzhaus und Rutsche. Ordne die drei Fotos als klares Raster mit schmalen weissen Fugen an (ein grosses Foto oben, zwei kleinere darunter nebeneinander), jedes Foto unveraendert und vollstaendig, nichts wichtiges angeschnitten. Darunter eine weisse Flaeche mit: Headline gross, fett, dunkelgrau: 'Vom Vorgarten bis zum ganzen Stadtviertel'. Darunter kleinere Zeile in Hellgruen (#B0CC22) auf dunklem Balken: 'Facharbeiter GaLaBau (m/w/d) in Bonndorf & Umgebung'. Das beigefuegte Logo original und unveraendert unten mittig. Ruhiges, hochwertiges Layout, viel Weissraum, kein weiterer Text. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-4-arbeitsplatz-vollbild",
+    "bilder": [
+      "logo.png",
+      "img/foto-01-schreitbagger.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als Vollbild. Beigefügt: (1) das Firmenlogo 'FISCHER Landschaftsbau GmbH' (hellgruener Schriftzug), (2) ein Foto eines blauen Schreitbaggers, der in einem Gartenprojekt mit Natursteinen arbeitet. Nutze das Foto formatfuellend und unveraendert als Hintergrund; lege ueber die untere Bildhaelfte einen weichen dunklen Verlauf von transparent nach fast schwarz, damit der Text sicher lesbar ist. Text unten linksbuendig: kleine hellgruene Ueberzeile 'FISCHER LANDSCHAFTSBAU SUCHT'; darunter eine sehr grosse, fette weisse Headline in zwei Zeilen: 'Moderne Technik. Grosse Projekte.'; darunter eine kleinere weisse Zeile: 'Facharbeiter GaLaBau (m/w/d) · Bonndorf & Umgebung'. Das beigefuegte Logo original und unveraendert oben rechts auf einer kleinen weissen Kachel. Kein weiterer Text, ruhige hochwertige Anmutung. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]

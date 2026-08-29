@@ -1,0 +1,21 @@
+{
+  "name": "creative-3-karte-lokal",
+  "logo": "logo.png",
+  "karte": "img/karte.jpg",
+  "primary": "#B0CC22",
+  "primary_ink": "#14181C",
+  "balken": "#2B2B29",
+  "balken_ink": "#FFFFFF",
+  "headline": [
+    "FACHARBEITER",
+    "GaLaBau"
+  ],
+  "headline_zusatz": "(m/w/d) gesucht",
+  "staedte": "Bonndorf · Waldshut-Tiengen · Titisee-Neustadt & Umgebung",
+  "pills": [
+    "Kurzer Freitag",
+    "Keine Montage-Übernachtung"
+  ],
+  "cta": "In 60 Sekunden zum unverbindlichen Job-Angebot",
+  "pin_label": "Bonndorf"
+}
